@@ -1,5 +1,5 @@
 import pytest
-from Deliverable_4_Task_2 import Fraction
+from src.Deliverable_4_Task_2 import Fraction
 
 
 def test_initialization_and_simplification():
